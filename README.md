@@ -1,7 +1,7 @@
 # A bit about me
-- 👋 Hi, I’m @cahnnor
-- 👀 I’m interested in Data Science, Web Development, Game Development, and most things to do with Software Engineering.
-- 🌱 I’m currently learning to deploy web-apps to oracle cloud rather than platforms like Heroku.
+- 👋 Hi, I’m @cahnnor. I'm a software engineer at TUNE, and I sometimes use this account for personal projects.
+- 👀 I’m interested in Data Science, Web Development, Game Development, and much more!
+- 🌱 I'm currently working on my skills with docker to improve my development and deployment experiences.
 - 📫 How to reach me: email: connorjamesl@hotmail.com 
 
 <!---
