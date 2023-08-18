@@ -1,8 +1,8 @@
 # A bit about me
 - 👋 Hi, I’m @cahnnor. I'm a software engineer at TUNE, and I sometimes use this account for personal projects.
-- 👀 I’m interested in Data Science, Web Development, Game Development, and much more!
-- 🌱 I'm currently working on my skills with docker to improve my development and deployment experiences.
-- 📫 How to reach me: email: connorjamesl@hotmail.com 
+- 👀 I’m interested in Data Science, Web Development, Game Development!
+- 🌱 I'm currently working on my devOps skillset, messing around with jenkins on a personal server to see if I can put together my own CI/CD pipeline for personal projects.
+- 📫 You can reach me by my email: connorjamesl@hotmail.com 
 
 <!---
 cahnnor/cahnnor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
