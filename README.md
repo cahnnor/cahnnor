@@ -1,7 +1,7 @@
 # A bit about me
 - 👋 Hi, I’m @cahnnor. I'm a software engineer at TUNE, and I sometimes use this account for personal projects.
-- 👀 I’m interested in Data Science, Web Development, Game Development!
-- 🌱 I'm currently working on my devOps skillset, messing around with jenkins on a personal server to see if I can put together my own CI/CD pipeline for personal projects.
+- 👀 I’m interested in Machine Learning, Web Development, Game Development!
+- 🌱 After setting up my own CI/CD servers I've been spending time learning to apply kubernetes to my personal projects.
 - 📫 You can reach me by my email: connorjamesl@hotmail.com 
 
 <!---
