@@ -1,8 +1,7 @@
 # A bit about me
-- 👋 Hi, I’m @cahnnor. I'm a software engineer for hire, and I sometimes use this account for personal projects.
-- 👀 I’m interested in Machine Learning, Web Development, Game Development!
-- 🌱 After setting up my own CI/CD servers I've been spending time learning to apply kubernetes to my personal projects.
-- 📫 You can reach me by my email: connorjamesl@hotmail.com, or if you'd like to hire me for contract work you can find me on contra: https://contra.com/connorcontracts
+- 👋 Hi, I’m @cahnnor. I'm a software engineer at Clio, and I sometimes use this account for personal projects.
+- 👀 I’m interested in Cloud Infrastructure, Web Development, and Game Development!
+- 🌱 I've taken a break from personal projects for a while, but I'm hoping to work on some stuff here again soon!
 
 <!---
 cahnnor/cahnnor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
